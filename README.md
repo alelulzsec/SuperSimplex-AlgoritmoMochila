@@ -5,11 +5,13 @@ Repositório para a implementação do algoritmo Simplex e Mochila.
 Projeto de Pesquisa Operacional
 5º Semestre BCC UNIVEM
 
-Alexandre Junior
+Integrantes:
+  Alexandre Junior
 
-Caio Henrique
+  Caio Henrique
 
-Gabriel Geraldino         
+  Gabriel Geraldino 
+  
 
 O Simplex permite que se encontre valores ideais em situações em que diversos aspectos precisam ser respeitados. Diante de um problema, são estabelecidas inequações que representam restrições para as variáveis. A partir daí, testa-se possibilidades de maneira a otimizar, isto é, maximizar ou minimizar o resultado da forma mais rápida possível.
 
