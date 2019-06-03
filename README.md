@@ -7,11 +7,11 @@ Projeto de Pesquisa Operacional
 
 Integrantes:
 
-  Alexandre Junior
+  Alexandre Junior da Silva RAº 572772
 
-  Caio Henrique
+  Caio Henrique de Lima Araujo RAº 567256
 
-  Gabriel Geraldino 
+  Gabriel Geraldino e Silva RA: 573760
   
 
 O Simplex permite que se encontre valores ideais em situações em que diversos aspectos precisam ser respeitados. Diante de um problema, são estabelecidas inequações que representam restrições para as variáveis. A partir daí, testa-se possibilidades de maneira a otimizar, isto é, maximizar ou minimizar o resultado da forma mais rápida possível.
