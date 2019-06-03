@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <title>
+        SuperSimplex
+    </title>
+    <meta name="viewport" content="width=device-width, inital-scale=1">
+    <meta name="description" content="SuperSimplex">
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="css/custom.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
+</head>
+
+<body>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+   
+      <nav class="menu">
+        <div>
+            <a href="index.html" class="index">SuperSimplex</a>
+            <a href="produto.html" class="produto">Produto</a>
+            <a href="teoria.html" class="teoria">Teoria</a>
+            <a href="mochila.html" class="teoria">Mochila</a>
+
+
+        </div>
+    </nav>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="container">
+        <div class="card"> 
+            <div class="card-content flex-container">
+
+                <div id="infos">
+                    <div class="input-field fill">
+                        <input id="num_var" type="text" required>
+                        <label for=num_var>Quantidade de Variaveis: </label>
+                    </div>
+                </div>
+                <div id="infos">
+
+                    <div class="input-field fill">
+                        <input id="num_rest" type="text" required>
+                        <label for=num_rest>Quantidade de Restrições: </label>
+                    </div>
+                </div>
+
+                <div id="infos">
+                    <div class="switch">
+                        <label>
+                        Maximizar
+                            <input id="selector" type="checkbox">
+                            <span class="lever"></span>         
+                        Minimizar
+                    </label>
+                    </div>
+                </div>
+
+                <div id="infos">
+                    <div class="input-field fill">
+                        <label for="num_iter">Limite Interacoes: 1000</label>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+                    <a href="#anchor3">
+                        <input type="button" id="btn_g_fields" onclick="addFields();" name="ok" value="Continuar" /> 
+                    </a>
+            </div>
+
+                <a name="anchor3"></a>
+
+                <div id="show" style="display: none"></div>
+
+
+                <a href="#anchor">
+                    <input id="btn_calc" type="button" value="Passo a Passo" style="display: none" onclick="calcular();">
+                </a>                
+
+                <a href="#anchor2">
+                    <input id="btn_calc2" type="button" value="Direto" style="display: none" onclick="direto();">
+                </a>
+
+                <a name="anchor"></a>
+                <div id="tables" class="white lighten-4 "></div>
+                <div id="post-optimization"></div>
+                <a name="anchor2"></a>
+                <div id="sensibilidade"></div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="js/home.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+
+</html>

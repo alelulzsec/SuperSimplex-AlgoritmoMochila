@@ -1,0 +1,224 @@
+body{
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    right: 100%;
+    background-size: 100%;
+}
+
+#inputValues{
+    color: white;
+}
+.teste{
+    text-align: center;
+}
+
+.otr{
+    background-image: url(../images/giphy.gif);
+    background-size: 100%;
+    margin: 0;
+    width: 100%;
+    right: 100%;
+}
+
+.flex-container{
+    background-image: url(../images/giphy.gif);
+    background-size: 100%;
+    flex-flow: column wrap;
+    text-align: center; 
+}
+
+.container{
+    background-image: url(../images/giphy.gif);
+    background-size: 100%;
+    text-align: center;
+    /*background-color: rgba(0,0,0)transparent;*/
+}
+
+/*esse aqui altera os campo de input*/
+#infos{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.fill{
+    align-items: center;
+    margin: 1em;
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.out{
+    display: none;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+}
+li{
+    flex: 1 1 auto;
+    max-width: 3em;
+    margin: 0.5em;
+    display: flex;
+}
+.label_center{
+    align-self: center;
+    font-size: 3.5em;    
+}
+.label_x{
+    align-self: center;
+}
+.input_dynamic{
+    text-align: center;
+}
+.horizontal-align{
+    display: flex;
+    flex-flow: row nowrap; 
+    align-items: center;   
+}
+
+.switch{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 2em;
+}
+
+#btn_calc{
+
+    
+}
+
+#initial_info input{
+    max-width: 3em;
+}
+.produto {
+    float: right;
+}
+
+.teoria {
+    float: right;
+}
+
+.ssair {
+    float: right;
+}
+
+.navegacao{
+    margin: auto;
+    min-width: auto;
+    text-align: center;
+    display: block;
+}
+
+.menu{
+    position: fixed;
+    padding: 30px;
+    float: right;
+    margin: auto;
+    background-color: black; 
+    text-align: center;
+}
+
+.menu a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.index{
+    font-size: 23px;
+    font-family: arial;
+    float: left;
+}
+
+.teoria{
+    font-size: 23px;
+    margin-right: 30px;
+    float: right;
+    font-family: arial;
+}
+
+.produto{
+    font-size: 23px;
+    float: right;
+    font-family: arial;
+}
+
+.card{
+    background-image: url(../images/giphy.gif);
+    background-size: 100%;
+    text-align: center;
+    /*background-color: rgb(0,0,0,100);*/
+    color: black;
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+
+.card-content{
+    background-image: url(../images/giphy.gif);
+    background-size: 100%;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.input-field{
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.row{
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+}
+
+#post-optimization{
+    background-color: white;
+    color: black;
+}
+
+#sensibilidade{
+    background-color: white;
+    color: black;
+}
+
+#show{
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align-last: center;
+    font-family: arial;
+    text-align: center;
+    margin-top: 180px;
+    color: white;
+    font-size: 20px;
+}
+
+.label_center{
+    text-align: center;
+    font-size: 40px;
+}
+
+#move{
+    text-align: center;
+}
+
