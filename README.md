@@ -5,7 +5,7 @@ Repositório para a implementação do algoritmo Simplex e Mochila.
 Projeto de Pesquisa Operacional
 5º Semestre BCC UNIVEM
 
-Alexandre Junior da Silva 
+Alexandre Junior
 Caio Henrique             
 Gabriel Geraldino         
 
