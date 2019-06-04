@@ -70,41 +70,41 @@ O algoritmo da mochila consiste em preencher a mochila com objetos diferentes de
 
 Datas | Eventos
 --------- | ------
-30/03/16    | Início do Planejamento
-31/03/16    | Criação da Estrutura Principal
-02/04/16    | Criação do Cabeçalho da Matriz Principal
-03/04/16    | Cálculo
-03/04/16    | Geração da Matriz Principal
-05/04/16    | Criação das Funções de Parada
-16/04/16    | Inserindo o Minimizar
-20/04/16    | Criação do Layout
-20/04/16    | Inserindo a Análise de Sensibilidade
-20/04/16    | Alterações no Readme
-23/04/16    | Estruturação da Função Objetivo
-23/04/16    | Arrumando a função Minimizar
-29/04/16    | Readme modificado
-01/05/16    | Limpar tela
-01/05/16    | Alteração no campo de restrições
-01/05/16    | Tabela de Sensibilidade
-01/05/16    | Criando o passo a passo
-01/05/16    | Ajustes nos inputs das restrições
-15/06/16    | Arrumando link do simplex
-15/06/16    | Ajustando tabelas simplex
-15/06/16    | Análise de sensibilidade
-15/06/16    | Atualizando README
+30/03/19    | Início do Planejamento
+31/03/19    | Criação da Estrutura Principal
+02/04/19    | Criação do Cabeçalho da Matriz Principal
+03/04/19    | Cálculo
+03/04/19    | Geração da Matriz Principal
+05/04/19    | Criação das Funções de Parada
+16/04/19    | Inserindo o Minimizar
+20/04/19    | Criação do Layout
+20/04/19    | Inserindo a Análise de Sensibilidade
+20/04/19    | Alterações no Readme
+23/04/19    | Estruturação da Função Objetivo
+23/04/19    | Arrumando a função Minimizar
+29/04/19    | Readme modificado
+01/05/19    | Limpar tela
+01/05/19    | Alteração no campo de restrições
+01/05/19    | Tabela de Sensibilidade
+01/05/19    | Criando o passo a passo
+01/05/19    | Ajustes nos inputs das restrições
+15/06/19    | Arrumando link do simplex
+15/06/19    | Ajustando tabelas simplex
+15/06/19    | Análise de sensibilidade
+15/06/19    | Atualizando README
 
 
 ###Mochila
 
 Datas | Eventos
 --------- | ------
-05/06/16    | Início do Planejamento
-06/06/16    | Inserindo inputs
-06/06/16    | Inserindo o paralax
-07/06/16    | Finalização do projeto da mochila
-08/06/16    | Atualizando o Read Me
-14/06/16    | Refatoração do layout da Mochila e index
-15/06/16    | Atualizando README
+05/06/19    | Início do Planejamento
+06/06/19    | Inserindo inputs
+06/06/19    | Inserindo o paralax
+07/06/19    | Finalização do projeto da mochila
+08/06/19    | Atualizando o Read Me
+14/06/19    | Refatoração do layout da Mochila e index
+15/06/19    | Atualizando README
 
 ##Compatibilidade
 
@@ -121,8 +121,7 @@ Front-End     | HTML, Javascript, JQuery
 Back-End    | Javascript
 Framework WEB    | Materialize
 Editor de Texto  | Visual Studio Code e Sublime Text 3
-Design pattern  |
-Servidor Web    | https://github.io/alelulzsec
+Servidor Web    | 000webhost.com
 
 ##Atividades Realizadas no Período
 
