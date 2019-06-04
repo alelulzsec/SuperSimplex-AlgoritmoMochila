@@ -40,7 +40,7 @@ O algoritmo da mochila consiste em preencher a mochila com objetos diferentes de
 
 - Apresentação da solução, dos itens a serem considerados e a tabela de cálculo.
 
-##Entradas personalizadas para:
+## Entradas personalizadas para:
 
 ### Simplex
 
