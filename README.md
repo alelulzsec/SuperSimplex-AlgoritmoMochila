@@ -29,91 +29,70 @@ O algoritmo da mochila consiste em preencher a mochila com objetos diferentes de
 
 ## Nota de realease a ser publicado
 
-###Simplex
+### Simplex
 
 - Algoritmo Simplex para problemas de maximização.
 - Algoritmo Simplex para problemas de minimização.
 - É exibido o passo a passo das tabelas geradas pelo método Simplex
 - Tabela de Sensibilidade.
 
-###Mochila
+### Mochila
 
 - Apresentação da solução, dos itens a serem considerados e a tabela de cálculo.
 
 ##Entradas personalizadas para:
 
-###Simplex
+### Simplex
 
 - Limite máximo de iterações
 - Tipo de Simplex (MAX ou MIN)
 - Quantidade de variáveis e restrições
 
-###Mochila
+### Mochila
 - Capacidade da mochila
 - Peso e valor dos itens
 
 
-###Simplex
+### Simplex
 
 - Em cada variável da função objetivo e das restrições deve conter apenas o número, sem a adição do 'x', separando os números por ';' e caso tenha alguma variável nula, é necessário inserir o 0.
 
 
-###Mochila
+### Mochila
 
 - Não utilizar itens com pesos iguais
 - Serão permitidos somente valores inteiros
 
 
-##Datas Importantes
+## Datas Importantes
 
-###Simplex
-
-Datas | Eventos
---------- | ------
-30/03/19    | Início do Planejamento
-31/03/19    | Criação da Estrutura Principal
-02/04/19    | Criação do Cabeçalho da Matriz Principal
-03/04/19    | Cálculo
-03/04/19    | Geração da Matriz Principal
-05/04/19    | Criação das Funções de Parada
-16/04/19    | Inserindo o Minimizar
-20/04/19    | Criação do Layout
-20/04/19    | Inserindo a Análise de Sensibilidade
-20/04/19    | Alterações no Readme
-23/04/19    | Estruturação da Função Objetivo
-23/04/19    | Arrumando a função Minimizar
-29/04/19    | Readme modificado
-01/05/19    | Limpar tela
-01/05/19    | Alteração no campo de restrições
-01/05/19    | Tabela de Sensibilidade
-01/05/19    | Criando o passo a passo
-01/05/19    | Ajustes nos inputs das restrições
-15/06/19    | Arrumando link do simplex
-15/06/19    | Ajustando tabelas simplex
-15/06/19    | Análise de sensibilidade
-15/06/19    | Atualizando README
-
-
-###Mochila
+### Simplex
 
 Datas | Eventos
 --------- | ------
-05/06/19    | Início do Planejamento
-06/06/19    | Inserindo inputs
-06/06/19    | Inserindo o paralax
-07/06/19    | Finalização do projeto da mochila
-08/06/19    | Atualizando o Read Me
-14/06/19    | Refatoração do layout da Mochila e index
-15/06/19    | Atualizando README
+30/03/19	| Início do Planejamento
+23/04/19	| Mvp 1, funcionalidades 1 e 2
+06/05/19	| Mvp 2, funcionalidades 3 e 8
+15/05/19	| Mvp 3, funcionalidades 4 e 7
+23/04/19	| Mvp 1, funcionalidades 1 e 2
+03/06/19	| Entrega da funcionalidade
 
-##Compatibilidade
+
+### Mochila
+
+Datas | Eventos
+--------- | ------
+27/05/19	| Início do Planejamento
+03/06/19	| Entrega da funcionalidade
+
+## Compatibilidade
 
 Requisitos | Ferramentas
 --------- | ------
 Navegadores     | Mozila Firefox, Chrome, Internet Explorer
 Sistema Operacional    | Ubuntu, Windows, Mac
 
-##Tecnologias
+## Tecnologias
 
 Tecnologias | Ferramentas
 --------- | ------
@@ -123,9 +102,9 @@ Framework WEB    | Materialize
 Editor de Texto  | Visual Studio Code e Sublime Text 3
 Servidor Web    | 000webhost.com
 
-##Atividades Realizadas no Período
+## Atividades Realizadas no Período
 
-###Simplex
+### Simplex
 
 Código | Título | Tarefa | Situação | Observação
 --------- | ------ | -------| -------| -------
@@ -136,7 +115,7 @@ Código | Título | Tarefa | Situação | Observação
 5 | Demonstrar passo a passo | Demonstrar ao usuário as alterações na tabela causada pelas iterações do método simplex. | Concluído|
 6  | Tabela de sensibilidade | Demonstrar ao usuário a tabela de sensibilidade. |Concluído|
 
-###Mochila
+### Mochila
 
 Código | Título | Tarefa | Situação | Observação
 --------- | ------ | -------| -------| -------
