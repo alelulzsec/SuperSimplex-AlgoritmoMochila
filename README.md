@@ -2,18 +2,6 @@
 
 Repositório para a implementação do algoritmo Simplex e Mochila.
 
-Projeto de Pesquisa Operacional
-5º Semestre BCC UNIVEM
-
-Integrantes:
-
-  Alexandre Junior da Silva RAº 572772
-
-  Caio Henrique de Lima Araujo RAº 567256
-
-  Gabriel Geraldino e Silva RA: 573760
-  
-
 O Simplex permite que se encontre valores ideais em situações em que diversos aspectos precisam ser respeitados. Diante de um problema, são estabelecidas inequações que representam restrições para as variáveis. A partir daí, testa-se possibilidades de maneira a otimizar, isto é, maximizar ou minimizar o resultado da forma mais rápida possível.
 
 O algoritmo da mochila consiste em preencher a mochila com objetos diferentes de pesos e valores. O objetivo é que preencha a mochila com o maior valor possível, não ultrapassando o peso máximo.
@@ -59,34 +47,6 @@ https://supersimplex.000webhostapp.com/
 ### Simplex
 
 - Em cada variável da função objetivo e das restrições deve conter apenas o número, sem a adição do 'x', separando os números por ';' e caso tenha alguma variável nula, é necessário inserir o 0.
-
-
-### Mochila
-
-- Não utilizar itens com pesos iguais
-- Serão permitidos somente valores inteiros
-
-
-## Datas Importantes
-
-### Simplex
-
-Datas | Eventos
---------- | ------
-30/03/19	| Início do Planejamento
-23/04/19	| Mvp 1, funcionalidades 1 e 2
-06/05/19	| Mvp 2, funcionalidades 3 e 8
-15/05/19	| Mvp 3, funcionalidades 4 e 7
-23/04/19	| Mvp 1, funcionalidades 1 e 2
-03/06/19	| Entrega da funcionalidade
-
-
-### Mochila
-
-Datas | Eventos
---------- | ------
-27/05/19	| Início do Planejamento
-03/06/19	| Entrega da funcionalidade
 
 ## Compatibilidade
 
